@@ -18,6 +18,7 @@ window.onload = function() {
     const radioS3 = parseInt(document.querySelector('input[name=q3]:checked').value);
     const radioS4 = parseInt(document.querySelector('input[name=q4]:checked').value);
     const radioS5 = parseInt(document.querySelector('input[name=q5]:checked').value);
+
       function acccumulateAnswers() {
         const radioSelection = Math.round(radioS1 + radioS2 + radioS3 + radioS4 + radioS5) / 5;
         return radioSelection;

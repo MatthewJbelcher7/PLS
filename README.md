@@ -1,4 +1,4 @@
-# _Programming_Language_selecter_
+# _Programming_Language_Selecter_
 
 #### By _Matthew_Belcher_
 
@@ -14,7 +14,7 @@
 
 ## Description
 
-_This will allow the user to select a variety of awnsers to find a suggestion on what language they should learn to code_
+_This will allow the user to select a variety of awnsers to find a suggestion on what language they should learn to code. It also will show a capability to use branching logic to _
 
 ## Setup/Installation Requirements
 
@@ -24,7 +24,7 @@ _This will allow the user to select a variety of awnsers to find a suggestion on
 
 ## Known Bugs
 
-* _???_
+* _Image not scaled to bottom of page_
 
 
 

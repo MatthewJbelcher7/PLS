@@ -24,7 +24,7 @@ _This will allow the user to select a variety of awnsers to find a suggestion on
 
 ## Known Bugs
 
-* _This is a very hurried version that will be completed during this weekend due to a variety of constraints that I can better awnser in discord or an email"_
+* _???_
 
 
 

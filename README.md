@@ -14,7 +14,7 @@
 
 ## Description
 
-_This will allow the user to select a variety of awnsers to find a suggestion on _
+_This will allow the user to select a variety of awnsers to find a suggestion on what language they should learn to code_
 
 ## Setup/Installation Requirements
 
@@ -32,4 +32,4 @@ _This will allow the user to select a variety of awnsers to find a suggestion on
 
 _MIT_
 
-Copyright (c) _8/12/2022_ _Matthew_Belcher_
+Copyright (c) _1/29/2023_ _Matthew_Belcher_

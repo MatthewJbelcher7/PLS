@@ -12,7 +12,7 @@ function hideResults() {
 window.onload = function() {
   hideResults();
 
-  document.querySelector("radio-form").onsubmit = function(event) {
+  document.querySelector(".#R-F").onsubmit = function(event) {
     event.preventDefault();
     hideResults();
     const radioS1 = parseInt(document.querySelector('input[name=q1]:checked').value);

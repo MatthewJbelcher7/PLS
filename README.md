@@ -25,7 +25,7 @@ _This will allow the user to select a variety of awnsers to find a suggestion on
 ## Known Bugs
 
 * _Image not scaled to bottom of page_
-* _Some where in Javascript I'm missing or have broken code to reveal what someone picks_
+* _Some where in Javascript I'm missing or have broken code to reveal what someone picks this problem is persistting and I'm not entirely certain where im goign wrong_
 * _Wanting to add more CSS to have revealed awnser to float on the right_
 
 

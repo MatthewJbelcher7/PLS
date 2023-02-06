@@ -39,10 +39,26 @@ h2 {
 }
 h3 {
   color: rgb(247, 149, 58);
-  margin: 15px ;
+  margin: 15px;
 }
+
+h4 {
+  color: rgb(160, 160, 160);
+  background: rgb(92, 1, 1);
+  border-radius: 2px;
+  padding: 10px 10px;
+  margin: 20px;
+}
+
 p1 {
   color: rgb(105, 104, 104);
+  background: rgb(70, 70, 70);
+  border-radius: 7px;
+  padding: 20px 20px;
+}
+
+p2 {
+  color: rgb(0, 173, 253);
   background: rgb(70, 70, 70);
   border-radius: 7px;
   padding: 20px 20px;
